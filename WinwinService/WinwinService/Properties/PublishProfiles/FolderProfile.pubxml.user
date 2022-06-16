@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\warehouse_api發佈</_PublishTargetUrl>
+    <History>True|2021-10-28T10:00:53.4022175Z;True|2021-09-14T16:12:59.1740448+08:00;True|2021-09-09T19:06:15.9208146+08:00;</History>
+  </PropertyGroup>
+</Project>
